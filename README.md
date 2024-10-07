@@ -47,5 +47,3 @@ This project is an Online Shopping Cart system designed with PostgreSQL as the d
 - **PostgreSQL:** Ensure that PostgreSQL is installed on your system.
 - **Java Development Environment:** Set up an IDE like IntelliJ or Eclipse.
 - **Git:** Use Git for version control to manage project development.
-
-This setup provides a solid foundation for building and managing an Online Shopping Cart system with both customer and manager functionalities.
